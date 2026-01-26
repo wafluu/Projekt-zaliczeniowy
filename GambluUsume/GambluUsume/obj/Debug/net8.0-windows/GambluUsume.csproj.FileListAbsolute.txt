@@ -1,0 +1,53 @@
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form1.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form2.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.exe
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.deps.json
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.runtimeconfig.json
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.dll
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.pdb
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.dll
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\refint\GambluUsume.dll
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.pdb
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.genruntimeconfig.cache
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\ref\GambluUsume.dll
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form3.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form4.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form5.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form6.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form7.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form8.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form9.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form10.resources
+C:\Users\Admin\Desktop\WG_inf25\Nowy folder\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form11.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.exe
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.deps.json
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.runtimeconfig.json
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.dll
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\bin\Debug\net8.0-windows\GambluUsume.pdb
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form1.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form10.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form11.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form2.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form3.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form4.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form5.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form6.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form7.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form8.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Form9.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.Properties.Resources.resources
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.csproj.GenerateResource.cache
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.dll
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\refint\GambluUsume.dll
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.pdb
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\GambluUsume.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Pulpit\GambluUsume\GambluUsume\obj\Debug\net8.0-windows\ref\GambluUsume.dll
